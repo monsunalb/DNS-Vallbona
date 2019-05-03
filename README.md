@@ -7,4 +7,4 @@ Evita les DNS de l'institut Carles Vallbona 172.16.100.254
 3. Executa install.py amb python3
 
 
-Per qualsevol error obre un nou problema a https://github.com/monsunalb/DNS-Vallbona/issues/new
+Per qualsevol error obre un nou problema [aquí](https://github.com/monsunalb/DNS-Vallbona/issues/new)
