@@ -1,0 +1,8 @@
+[Unit]
+Description=modifica les dns
+After=network.target
+[Service]
+User=root
+ExecStart=/usr/bin/python /home
+[Install]
+WantedBy=multi-user.target
